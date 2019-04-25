@@ -37,4 +37,7 @@ h3 {
 }
  .pink {
  background-color: pink;
+ height: 100px;
+ margin: 10px 0;
+ width: 100%;
 }
